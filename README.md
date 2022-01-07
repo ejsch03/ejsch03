@@ -1,16 +1,16 @@
-### Hi there 👋
+### **Software Engineering** | First Year College Student
 
-<!--
-**splurf/splurf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been programming for about 2 years now, with most of that time being at home working on individual projects. I've come to prefer the backend work especially when leaning towards a more *Systematic* approach. I enjoy working with lower-level languages, such as Rust.
 
-Here are some ideas to get you started:
+### Languages
+```q
+System:               Web:               Tools:
+       Rust               HTML                 sdl2 (Rust)
+       Java               CSS                  JavaFx (Java)
+       Python             JavaScript           Selenium/BeautifulSoup (Python)
+       C                  PHP
+       C++                Apache
+       Bash               Nginx
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=splurf&theme=github_dark&card_width=1000&custom_title=Diversity)](https://github.com/anuraghazra/github-readme-stats)
