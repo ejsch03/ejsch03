@@ -1,6 +1,6 @@
 ## **Software Engineering** | First Year College Student
 
-- I've been programming for about 2 years now, with most of that time being at home working on individual projects. I've come to prefer the backend work especially when leaning towards a more *Systematic* approach. I enjoy working with others with a preference towards lower-level languages, such as Rust.
+- I've been programming for about 2 years now. I've come to prefer the backend work especially when leaning towards a more *Systematic* approach. I enjoy working with others with a preference towards lower-level languages, such as Rust.
 For more information, check out my [resume](https://rustychads.com/index.php/s/q2iMenHCCoNaxXT).
 
 ### Concepts
