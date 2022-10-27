@@ -1,10 +1,11 @@
-## **Software Engineering** | First Year College Student
+## **Software Engineering** | Second Year College Student
 
-- I've been programming for about 2 years now. I've come to prefer the backend work especially when leaning towards a more *Systematic* approach. I enjoy working with others with a preference towards lower-level languages, such as Rust.
-For more information, check out my [resume](https://rustychads.com/index.php/s/q2iMenHCCoNaxXT).
+- I've been programming for about 3 years now. I've come to prefer the backend work especially when leaning towards a more *Systematic* approach. I enjoy working with others with a preference towards lower-level languages, such as Rust.
+For more information, check out my [resume](https://rustychads.com/index.php/s/29eeQfLNWB8bzEK).
 
 ### Concepts
-- I've taken a Data Structures class which went over a great amount of different structures such as stack, queue, heap, trees, maps, as well as a little bit about graphs. Time complexity when working with sorting/searching algorithms that make up the many structures that we worked with was a great deal of the class.
+- I've taken a Data Structures class which went over several types of structures and algorithms
+- I've also taken a Discrete Mathematics class which was really interesting
 
 ### Experience/Familiar with:
 ```q
