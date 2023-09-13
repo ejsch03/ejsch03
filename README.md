@@ -6,6 +6,6 @@
 - I find networking and concurrency exciting.
 
 ### Other Links
-[Resume](https://drive.google.com/file/d/1ibrRjY9CoVm7uVPRm3EUJg8jfdUNRKsb/view?usp=sharing)
-| [LinkedIn](https://gronk.rustychads.com)
+[Resume](https://gronk.rustychads.com/evan-schwartzentruber)
+| [LinkedIn](https://www.linkedin.com/in/evan-schwartzentruber-282035239/)
 | [crates.io](https://crates.io/users/splurf)
