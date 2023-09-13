@@ -7,5 +7,5 @@
 
 ### Other Links
 [Resume](https://drive.google.com/file/d/1ibrRjY9CoVm7uVPRm3EUJg8jfdUNRKsb/view?usp=sharing)
-| [LinkedIn](https://www.linkedin.com/in/evan-schwartzentruber-282035239/)
+| [LinkedIn](https://gronk.rustychads.com)
 | [crates.io](https://crates.io/users/splurf)
