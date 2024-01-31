@@ -1,11 +1,12 @@
 ## Evan Schwartzentruber
 
 # About Me
-- I'm a 3rd-year college student studying Computer Science at the University of Michigan Tech.
-- I enjoy studying the _rust_ programming language.
-- I find networking and concurrency exciting.
+- $3^{\text{rd}}$ year Computer Science college student studying at the University of Michigan Tech.
+- Enjoy studying the [rust](https://www.rust-lang.org/) programming language.
+- Interested in networking, concurrency, etc...
 
 ### Other Links
-[Resume](https://gronk.rustychads.com/evan-schwartzentruber)
+  [Resume](https://gronk.rustychads.com/evan-schwartzentruber)
 | [LinkedIn](https://www.linkedin.com/in/evan-schwartzentruber-282035239/)
 | [crates.io](https://crates.io/users/splurf)
+| [Fiverr](https://www.fiverr.com/salvinster)
