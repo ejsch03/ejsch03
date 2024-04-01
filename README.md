@@ -6,7 +6,7 @@
 - Interested in networking, concurrency, etc...
 
 ### Other Links
-  [Resume](https://gronk.rustychads.com/evan-schwartzentruber)
-| [LinkedIn](https://www.linkedin.com/in/evan-schwartzentruber-282035239/)
+  [Resume](https://ejs.rustychads.com/)
+| [LinkedIn](https://www.linkedin.com/in/eschwart/)
 | [crates.io](https://crates.io/users/splurf)
 | [Fiverr](https://www.fiverr.com/salvinster)
