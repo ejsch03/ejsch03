@@ -6,5 +6,5 @@ I am a $4^{\text{th}}$ year CS student studying at the University of Michigan Te
 ### Other Links
   [Resume](https://resume.rustychads.com/)
 | [LinkedIn](https://www.linkedin.com/in/eschwart/)
-| [crates.io](https://crates.io/users/splurf)
+| [crates.io](https://crates.io/users/splurf?sort=downloads)
 | [Fiverr](https://www.fiverr.com/salvinster)
