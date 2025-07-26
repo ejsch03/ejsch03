@@ -1,11 +1,17 @@
 ## Evan Schwartzentruber
 
-# About Me
-I am a $4^{\text{th}}$ year CS student studying at the University of Michigan Tech. I enjoy building random things as well as studying and working with the [rust](https://www.rust-lang.org/) programming language, along with several other related concepts. I am especially interested in database/systematic design, concurrency, and networking.
+### About Me
+I'm a recent Computer Science graduate with a passion for building systems from the ground up. I enjoy working with the [Rust](https://www.rust-lang.org/) programming language and exploring topics like systems design, networking, and concurrency. Whether it’s developing tools, working on backend infrastructure, or just experimenting with new ideas, I’m always looking for ways to learn and improve.
+
+### Interests
+- Concurrency and performance optimization
+- Systems and database design
+- Network protocols and real-time communication
+- Open source and developer tooling
 
 ### Other Links
   [Resume](https://resume.rustychads.com/)
 | [LinkedIn](https://www.linkedin.com/in/eschwart/)
-| [Website](https://ejs.rustychads.com/) (someday… maybe)
 | [crates.io](https://lib.rs/~eschwart)
 | [Fiverr](https://www.fiverr.com/salvinster)
+| [Website](https://ejs.rustychads.com/) (someday… maybe)
