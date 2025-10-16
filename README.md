@@ -12,6 +12,6 @@ I'm a recent Computer Science graduate with a passion for building systems from 
 ### Other Links
   [Resume](https://resume.rustychads.com/)
 | [LinkedIn](https://www.linkedin.com/in/ejsch03/)
-| [crates.io](https://lib.rs/~ejsch03)
+| [crates.io](https://crates.io/users/ejsch03?sort=downloads)
 | [Fiverr](https://www.fiverr.com/salvinster)
 | [Website](https://ejs.rustychads.com/) (someday… maybe)
