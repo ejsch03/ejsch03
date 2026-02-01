@@ -16,6 +16,5 @@ I'm a recent Computer Science graduate with a passion for building systems from 
 - [Fiverr](https://www.fiverr.com/salvinster)
 
 ### Websites
-- [Portfolio](https://ejs.rustychads.com/) ([source](https://github.com/ejsch03/ejs)) (someday… maybe)
 - [mcrcon frontend](https://mc.rustychads.com/) ([source](https://github.com/ejsch03/wlrs))
 - [vibe-coded school project](https://lug.rustychads.com/) ([source](https://github.com/ejsch03/lug))
