@@ -1,10 +1,5 @@
 ## Evan Schwartzentruber
 
-### About Me
-I'm a recent Computer Science graduate with a passion for building systems from the ground up. I enjoy working with the [Rust](https://www.rust-lang.org/) programming language and exploring topics like systems design, networking, and concurrency. Whether it’s developing tools, working on backend infrastructure, or just experimenting with new ideas, I’m always looking for ways to learn and improve.
+I'm a recent Computer Science graduate with a passion for building systems from the ground up. I enjoy systems design, networking, and concurrency. Whether it’s developing tools, working on backend infrastructure, or just experimenting with new ideas, I’m always looking for ways to learn and improve.
 
-### Links
-- [Resume](https://resume.rustychads.com/)
-- [LinkedIn](https://www.linkedin.com/in/ejsch03/)
-- [crates.io](https://crates.io/users/ejsch03?sort=downloads)
-- [Fiverr](https://www.fiverr.com/salvinster)
+[Resume](https://resume.rustychads.com/) | [LinkedIn](https://www.linkedin.com/in/ejsch03/) | [crates.io](https://crates.io/users/ejsch03?sort=downloads) | [Fiverr](https://www.fiverr.com/salvinster)
